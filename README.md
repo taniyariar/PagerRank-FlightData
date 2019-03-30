@@ -4,8 +4,11 @@ Implementation of Page Rank Algorithm for domestic flight network data in US
 References:
 
 <https://www.mongodb.com/blog/post/pagerank-on-flights-dataset>
+
 <https://cdn.iiit.ac.in/cdn/search.iiit.ac.in/cloud/presentations/3.pdf>
+
 <https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236>
+
 <https://github.com/mongodb-labs/big-data-exploration>
 
 The project focuses on the implementation of Page Rank Algorithm on the flight data to come up with a flight network that can be used to apply analytics. The project aims at:  
